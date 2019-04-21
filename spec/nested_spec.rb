@@ -31,6 +31,10 @@ describe "nested hash" do
   describe "#changing_alan" do 
     it "operates on the programmer_hash and changes what Alan Kay is known for, returning the newly-changed hash" do 
       
+<<<<<<< HEAD
+=======
+      binding.pry
+>>>>>>> fce01b4284d298d0f584000c7f3f05a0d3d00a23
       expect(changing_alan[:alan_kay][:known_for]).to eq("GUI")
     end
   end

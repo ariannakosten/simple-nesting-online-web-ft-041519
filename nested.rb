@@ -107,8 +107,11 @@ def changing_alan
         }
  		}
     programmer_hash[:alan_kay][:known_for] = "GUI"
+<<<<<<< HEAD
     
     programmer_hash
+=======
+>>>>>>> fce01b4284d298d0f584000c7f3f05a0d3d00a23
  end
 
 def adding_to_dennis
@@ -129,7 +132,11 @@ def adding_to_dennis
      }
      programmer_hash[:dennis_ritchie][:languages] << "Assembly"
      
+<<<<<<< HEAD
      programmer_hash
+=======
+     puts [programmer_hash][]
+>>>>>>> fce01b4284d298d0f584000c7f3f05a0d3d00a23
     
 
 end
