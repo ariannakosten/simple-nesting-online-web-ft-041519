@@ -134,9 +134,7 @@ def adding_to_dennis
      
 <<<<<<< HEAD
      programmer_hash
-=======
-     puts [programmer_hash][]
->>>>>>> fce01b4284d298d0f584000c7f3f05a0d3d00a23
+     puts programmer_hash
     
 
 end
